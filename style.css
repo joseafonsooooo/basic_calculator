@@ -1,0 +1,33 @@
+body
+{
+    background:#424242;
+}
+
+.keys
+{
+    background: linear-gradient(0deg, #797979, white);
+    border: 3px solid #191919;
+    color: #000;
+    font-weight: bolder;
+    border-radius: 30px;
+}
+
+.keys:hover
+{
+    background: linear-gradient(0deg, #797979, #797979);
+    cursor: pointer;
+}
+
+.screen
+{
+    background:#000;
+    border-radius:30px;
+    color:#fff;
+    border: 3px solid #191919;
+    font-weight: bolder;
+}
+
+.bolder
+{
+    font-weight: bold;
+}
